@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c67c661f-7174-4220-a78e-de291d738448",
+    "name": "Dr. Sharma",
+    "overall_rating": 0,
+    "total_ratings": 0
+  },
+  {
+    "id": "822f5143-55f1-4daa-9984-11534e4a0ba6",
+    "name": "Dr. Mishra",
+    "overall_rating": 5,
+    "total_ratings": 1
+  },
+  {
+    "id": "cf6b88b8-04b4-4687-9de7-38eed08ff14d",
+    "name": "Dr. Mishra",
+    "overall_rating": 0,
+    "total_ratings": 0
+  }
+]
